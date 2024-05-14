@@ -10,13 +10,19 @@ Inventory is measured and regulated according to predetermined norms such as eco
 1.Profitability
 Across all the years the month of April, May, and June (Q2) have reached peak-level sales.
 High profit recorded in 2021, indicating a successful profit of 5.7M.
+
 2.Strategy 
 West region 15 % leads in sales, indicating the potential for targeted growth strategies.
 King Store ranks highest in sales 257k among the top 5 stores, indicating its significant contribution to overall revenue.
+
 3.Forecast analysis
 High sales are projected for Q2 and Q4 of 2024, suggesting potential revenue peaks in those periods.
 
 **Skill Utilized- Power BI**
+
+
+
+
 <img width="599" alt="image" src="https://github.com/Akanksha10599/Supply-Chain-Analytics/assets/169041591/ce16b8e8-86ad-4afb-a6e6-04d155cf866f">
 
 **Skill Utilized- Tableau**
