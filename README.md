@@ -34,4 +34,7 @@ High sales are projected for Q2 and Q4 of 2024, suggesting potential revenue pea
 
 **Skill Utilized- Tableau**
 
+<img width="827" alt="image" src="https://github.com/Akanksha10599/Supply-Chain-Analytics/assets/169041591/f69df3c1-86ad-4e61-ba30-e0a0b27dfe43">
+
+
 
