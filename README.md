@@ -7,6 +7,7 @@ Inventory is measured and regulated according to predetermined norms such as eco
 
 
 **Supply Chain Analysis & Forecast**
+
 1.Profitability
 Across all the years the month of April, May, and June (Q2) have reached peak-level sales.
 High profit recorded in 2021, indicating a successful profit of 5.7M.
