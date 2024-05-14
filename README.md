@@ -18,6 +18,12 @@ King Store ranks highest in sales 257k among the top 5 stores, indicating its si
 3.Forecast analysis
 High sales are projected for Q2 and Q4 of 2024, suggesting potential revenue peaks in those periods.
 
+
+**Skill Utilized- Power BI**
+
+<img width="707" alt="image" src="https://github.com/Akanksha10599/Supply-Chain-Analytics/assets/169041591/e7f14922-70f8-478f-bf58-a238a514b6c9">
+
+
 **Skill Utilized- Power BI**
 
 
